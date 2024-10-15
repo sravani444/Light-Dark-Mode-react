@@ -1,4 +1,4 @@
-# Subscribe-react
+# Dark and Light Mode
 In this project, let's build a ** Dark and Light Mode** by applying the concepts we have learned till now.
 
 ### Refer to the image below:
