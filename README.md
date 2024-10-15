@@ -5,7 +5,7 @@ In this project, let's build a ** Dark and Light Mode** by applying the concepts
 
 <br/>
 <div style="text-align: center;">
-<img src="https://assets.ccbp.in/frontend/content/react-js/light-dark-mode-output.gif" alt="login-app-output" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+<img src="https://assets.ccbp.in/frontend/content/react-js/light-dark-mode-output.gif" alt="login-app-output" style="max-width:50%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 <br/>
 
